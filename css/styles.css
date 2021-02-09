@@ -1,0 +1,21 @@
+body{
+	background-color: grey;
+}
+
+h1, h2, h3, p{
+	color: white; 
+	text-align: left;
+}
+
+.bold{
+	font-weight: bold;
+	display: inline;
+
+	color: white; 
+	text-align: left;
+
+}
+
+#italic{
+	font-style: italic;
+}
