@@ -1,10 +1,20 @@
 body{
 	background-color: grey;
+	font-family: Arial
 }
 
 h1, h2, h3, p{
 	color: white; 
 	text-align: left;
+
+}
+
+h1{
+	background-color: orange
+	padding: 20px
+	border-style: solid
+	border-width: 2px
+	border color: black;
 }
 
 .bold{
@@ -18,4 +28,9 @@ h1, h2, h3, p{
 
 #italic{
 	font-style: italic;
+}
+
+.my-container{
+	border: thick; solid #007DFF;
+	background-color: #A4C9D0;
 }
